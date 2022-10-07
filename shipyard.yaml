@@ -7,11 +7,17 @@ spec:
     - name: "perf-400dev"
       sequences:
       - name: "evaluation"
+        tasks:
+        - name: "evaluation"
       
     - name: "perf-300rel"
       sequences:
       - name: "evaluation"
+        tasks:
+        - name: "evaluation"
     
     - name: "perf-200rel"
       sequences:
       - name: "evaluation"
+        tasks:
+        - name: "evaluation"
